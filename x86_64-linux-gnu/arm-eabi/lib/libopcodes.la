@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/jancsessz/android/toolchain/out/arm-eabi-4.9-cortex-a15/x86_64-linux-gnu/arm-eabi/lib'
+libdir='/home/jancsessz/android/ubertc/out/uber-arm-eabi-4.9-cortex-a15/x86_64-linux-gnu/arm-eabi/lib'
